@@ -1,0 +1,17 @@
+E:\SKN\SKN.Infrastructure\bin\Debug\net8.0\SKN.Infrastructure.deps.json
+E:\SKN\SKN.Infrastructure\bin\Debug\net8.0\SKN.Infrastructure.runtimeconfig.json
+E:\SKN\SKN.Infrastructure\bin\Debug\net8.0\SKN.Infrastructure.dll
+E:\SKN\SKN.Infrastructure\bin\Debug\net8.0\SKN.Infrastructure.pdb
+E:\SKN\SKN.Infrastructure\bin\Debug\net8.0\SKN.Core.dll
+E:\SKN\SKN.Infrastructure\bin\Debug\net8.0\SKN.Core.pdb
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.csproj.AssemblyReference.cache
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.AssemblyInfoInputs.cache
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.AssemblyInfo.cs
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.csproj.CoreCompileInputs.cache
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infr.CE4743FB.Up2Date
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.dll
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\refint\SKN.Infrastructure.dll
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.pdb
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.genruntimeconfig.cache
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\ref\SKN.Infrastructure.dll

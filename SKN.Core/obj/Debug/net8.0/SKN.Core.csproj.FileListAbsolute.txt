@@ -1,0 +1,11 @@
+E:\SKN\SKN.Core\bin\Debug\net8.0\SKN.Core.deps.json
+E:\SKN\SKN.Core\bin\Debug\net8.0\SKN.Core.dll
+E:\SKN\SKN.Core\bin\Debug\net8.0\SKN.Core.pdb
+E:\SKN\SKN.Core\obj\Debug\net8.0\SKN.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\SKN\SKN.Core\obj\Debug\net8.0\SKN.Core.AssemblyInfoInputs.cache
+E:\SKN\SKN.Core\obj\Debug\net8.0\SKN.Core.AssemblyInfo.cs
+E:\SKN\SKN.Core\obj\Debug\net8.0\SKN.Core.csproj.CoreCompileInputs.cache
+E:\SKN\SKN.Core\obj\Debug\net8.0\SKN.Core.dll
+E:\SKN\SKN.Core\obj\Debug\net8.0\refint\SKN.Core.dll
+E:\SKN\SKN.Core\obj\Debug\net8.0\SKN.Core.pdb
+E:\SKN\SKN.Core\obj\Debug\net8.0\ref\SKN.Core.dll
