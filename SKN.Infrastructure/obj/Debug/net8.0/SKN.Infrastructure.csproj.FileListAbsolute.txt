@@ -9,6 +9,7 @@ E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.GeneratedMSBuildEd
 E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.AssemblyInfoInputs.cache
 E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.AssemblyInfo.cs
 E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.csproj.CoreCompileInputs.cache
+E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.sourcelink.json
 E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infr.CE4743FB.Up2Date
 E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\SKN.Infrastructure.dll
 E:\SKN\SKN.Infrastructure\obj\Debug\net8.0\refint\SKN.Infrastructure.dll

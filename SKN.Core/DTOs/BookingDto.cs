@@ -19,7 +19,7 @@ namespace SKN.Core.DTOs
         public DateTime CheckInDate { get; set; }
         public DateTime CheckOutDate { get; set; }
         public int NumberOfGuests { get; set; }
-        public int UserId { get; set; }
+        public string UserId { get; set; }
         public int RoomTypeId { get; set; }
     }
 

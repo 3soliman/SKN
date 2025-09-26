@@ -11,7 +11,7 @@ namespace SKN.Core.Entities
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
         // العلاقة مع User (Many-to-One)
-        public int UserId { get; set; }
+        public string UserId { get; set; }
         public User User { get; set; }
 
         // العلاقة مع Hotel (Many-to-One)

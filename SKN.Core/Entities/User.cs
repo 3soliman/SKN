@@ -1,21 +1,15 @@
-using System;
-using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity;
 
 namespace SKN.Core.Entities
 {
-    public class User
+    public class User : IdentityUser
     {
-        public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Email { get; set; }
-        public string PhoneNumber { get; set; }
+        public string FirstName { get; set; } = string.Empty;
+        public string LastName { get; set; } = string.Empty;
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-
-        // علاقة one-to-many مع Bookings
-        public ICollection<Booking> Bookings { get; set; } = new List<Booking>();
         
-        // علاقة one-to-many مع Reviews
+        // Navigation Properties
+        public ICollection<Booking> Bookings { get; set; } = new List<Booking>();
         public ICollection<Review> Reviews { get; set; } = new List<Review>();
     }
 }
